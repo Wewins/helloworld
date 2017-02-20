@@ -11,7 +11,7 @@ int main()
   
     cout<< "now time elapsed:"<<t.elapsed()<<"s"<<endl;  
     
-	cout << "Hello world" << endl;
-	:
-	return 0;  
+    cout << "Hello world" << endl;
+	
+    return 0;  
 } 
